@@ -25,6 +25,7 @@ header {
   background-color: transparent;
   text-align: center;
   margin-top: 20px;
+  max-width: 100%;
 }
 
 footer{
